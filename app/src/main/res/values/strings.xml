@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JazminCharlynLab3</string>
+    <string name="title"><b>Tagaytay Highlands</b></string>
+    <string name="distance">66.9 km from University of Santo Tomas</string>
+    <string name="location">Calamba Rd, Tagaytay, Cavite</string>
+    <string name="btn1">Back</string>
+    <string name="btn2">Next</string>
+</resources>
